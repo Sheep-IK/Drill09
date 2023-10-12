@@ -1,5 +1,4 @@
 from pico2d import *
-
 from grass import Grass
 from boy import Boy
 
